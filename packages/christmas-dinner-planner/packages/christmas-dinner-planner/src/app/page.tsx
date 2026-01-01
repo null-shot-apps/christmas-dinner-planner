@@ -66,7 +66,7 @@ export default function ChristmasDinnerPlanner() {
                 <p className="font-semibold text-gray-700 mb-2">🍽️ Menu</p>
                 <ul className="text-sm text-gray-600 space-y-1">
                   <li>• Chicken/Veg Biryani (ordered)</li>
-                  <li>• Raita & salad</li>
+                  <li>• Raita &amp; salad</li>
                   <li>• Simple dessert (store-bought)</li>
                 </ul>
               </div>
@@ -85,7 +85,7 @@ export default function ChristmasDinnerPlanner() {
                 selectedOption === 2 ? 'ring-4 ring-green-500' : ''
               }`}
             >
-              <h3 className="text-xl font-bold text-gray-800 mb-4">Option 2: Pasta & Pizza Combo</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-4">Option 2: Pasta &amp; Pizza Combo</h3>
               
               <div className="mb-4">
                 <p className="font-semibold text-gray-700 mb-2">🍽️ Menu</p>
